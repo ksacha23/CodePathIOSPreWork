@@ -5,9 +5,6 @@ This app shows you some text and allows you to change the text, change the color
 
 <img src="https://i.imgur.com/ypD8cYO.gif" width=200> <br>
 
-![](https://i.imgur.com/ypD8cYO.gif)
-
-
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
