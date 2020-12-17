@@ -3,8 +3,6 @@
 ### Pre Work submission for Codepath IOS Devlopment class
 This app shows you some text and allows you to change the text, change the color of the text, change the background of the application, and reset everything to the state that it is first delivered in
 
-![](https://i.imgur.com/Di875Pw.gif)
-
 <img src="https://i.imgur.com/Di875Pw.gif" width=200><br>
 
 ### Required User Stories
